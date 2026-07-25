@@ -52,7 +52,7 @@ Building on the Task 1 wireframes, I converted the low-fidelity design into a co
 
 | Ticket | Profile |
 |---|---|
-| [Ticket](TASK2-07-Ticket.png) | Profile](TASK2-08-Profile.png) |
+| [Ticket](TASK2-07-Ticket.png) | [Profile](TASK2-08-Profile.png) |
 
 ---
 
